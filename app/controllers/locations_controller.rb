@@ -4,9 +4,9 @@ class LocationsController < ApplicationController
     location = Location.new(location_params)
 
     if location.save
-      render json: @location
+      render json: location, status: 201
     else
-      render json: @location.errors, status: :unprocessable_entity
+      render json: location.errors, status: :unprocessable_entity
     end
   end
 
