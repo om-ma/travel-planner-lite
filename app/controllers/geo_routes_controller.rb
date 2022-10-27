@@ -8,7 +8,7 @@ class GeoRoutesController < ApplicationController
   def create
     creator = GeoRoutesCreator.new(origin: @origin, destination: @destination)
     result = creator.process
-    render json: { msg: result[:msg] }, status: result[:status]
+    render json: {msg: result[:msg]}, status: result[:status]
   end
 
   private

@@ -5,13 +5,15 @@ class GeoRoutesCreator
   end
 
   def process
-    delete_old_records
-    retrieve_new_routes
-    insert_routes
+    ActiveRecord::Base.transaction do
+      delete_old_records
+      retrieve_new_routes
+      insert_routes
 
-    { msg: "created successfully #{@inserted.rows.length} records", status: 201 }
+      {msg: "created successfully #{@inserted.rows.length} records", status: 201}
+    end
   rescue
-    { msg: 'something went wrong', status: 422 }
+    {msg: 'something went wrong', status: 422}
   end
 
   private
