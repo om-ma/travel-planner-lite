@@ -2,6 +2,7 @@ class GeoRoutesController < ApplicationController
   before_action :set_origin_destination
 
   def index
+    #TODO: may be need pagination here later
     render json: GeoRoute.with_origin_destination(@origin.id, @destination.id)
   end
 
