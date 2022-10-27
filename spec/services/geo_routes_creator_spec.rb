@@ -13,7 +13,6 @@ RSpec.describe GeoRoutesCreator, type: :model do
        .to_return(body: response_body, status: 201)
 
       creator = described_class.new(origin: origin, destination: destination)
-
       expect { creator.process }.to change { GeoRoute.count }.by(3)
     end
   end

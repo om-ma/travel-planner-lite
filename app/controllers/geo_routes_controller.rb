@@ -17,5 +17,4 @@ class GeoRoutesController < ApplicationController
     @origin = Location.find(params[:origin_id])
     @destination = Location.find(params[:destination_id])
   end
-
 end
