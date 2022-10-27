@@ -12,7 +12,9 @@ class GeoDirection
 
   def self.get_routes origin:, destination:
     response = HTTParty.get(get_google_url(origin, destination))
-    response = response.kind_of?(String) ? JSON.parse(response) : response
+
+    #TODO: soft patch to fix if tests run response is string
+    response = response["routes"].kind_of?(String) ? JSON.parse(response) : response
 
     response["routes"].map do |direction_route|
       route = direction_route["legs"][0]
