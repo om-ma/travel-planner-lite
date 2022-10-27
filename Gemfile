@@ -77,3 +77,5 @@ end
 
 gem 'httparty'
 gem 'dotenv-rails', require: 'dotenv/rails-now'
+gem 'webmock'
+

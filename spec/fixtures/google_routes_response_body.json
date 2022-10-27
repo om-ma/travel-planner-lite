@@ -1,0 +1,777 @@
+{
+  "geocoded_waypoints": [
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJV5NTLEy-woARaopLGpk0W6o",
+      "types": [
+        "street_address"
+      ]
+    },
+    {
+      "geocoder_status": "OK",
+      "place_id": "ChIJLdlCD9XX3IAR8AwH2ZdACKw",
+      "types": [
+        "route"
+      ]
+    }
+  ],
+  "routes": [
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 34.1362076,
+          "lng": -117.9222346
+        },
+        "southwest": {
+          "lat": 33.8160897,
+          "lng": -118.3526721
+        }
+      },
+      "copyrights": "Map data ©2022",
+      "legs": [
+        {
+          "distance": {
+            "text": "35.0 mi",
+            "value": 56260
+          },
+          "duration": {
+            "text": "46 mins",
+            "value": 2760
+          },
+          "end_address": "Disneyland Dr, Anaheim, CA 92802, USA",
+          "end_location": {
+            "lat": 33.8160897,
+            "lng": -117.9225226
+          },
+          "start_address": "5543 Universal Studios Blvd, Universal City, CA 91608, USA",
+          "start_location": {
+            "lat": 34.1358593,
+            "lng": -118.3511633
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 445
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 123
+              },
+              "end_location": {
+                "lat": 34.1329641,
+                "lng": -118.3526721
+              },
+              "html_instructions": "Head <b>north</b> on <b>Universal Studios Blvd</b>",
+              "polyline": {
+                "points": "cdjoEvmjqUOAA?E?E?A?E@CBC@CBC@A@CBCBCB?@AB?@?@?@?@?@?@@@?@@@@@@@@?BB@?@?@?@?@?@AB?@??AB?@?ZGJCZ?TCPC@?T?B?P?PB@?PBLBLJFFHDB?FBB@FDB?FDB@FBB@FD@@FDB@TNRN@@FDB@BBBBPLf@Xf@\\DBD@TLB@FBFDHDD@BBD@DBF@DBH@FBRD"
+              },
+              "start_location": {
+                "lat": 34.1358593,
+                "lng": -118.3511633
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "9.6 mi",
+                "value": 15487
+              },
+              "duration": {
+                "text": "16 mins",
+                "value": 946
+              },
+              "end_location": {
+                "lat": 34.0525152,
+                "lng": -118.2258658
+              },
+              "html_instructions": "Turn <b>left</b> to merge onto <b>US-101 S</b>",
+              "maneuver": "ramp-left",
+              "polyline": {
+                "points": "_rioEdwjqUZSDe@Fa@@I@CHc@@CBMFU@ANa@?A@CJUFQJQDGTg@`@o@NUb@m@?AAc@JMRSRUTURSHKDETUJMFGRSRURSPSFGLMRSPSPQNOBEBCPQBCPQRSTUPSPQFGNOPSTURSRSRSRS?ARSPQTUPQ@?TYVWVWTUTWZ[JKDERSDELMPQVWTSNOXSVUFELIRM\\UVONId@WPKVQJEBCHCLKb@WRMBCLITQFENMLKx@q@NOTWLORWNORWx@cAh@q@Z_@`@i@Z]V]pBeCRUZ_@\\_@V[DGb@e@RSJKRS\\[JKl@k@ROLKb@]?ATQ^Wl@a@`@YVSf@[TMp@]TKTMh@U`@Qd@Qd@QLE^MVIFC@?^MXG^KPEl@MHAd@ITGz@M?Ab@GXE\\GB?LCv@MlAQ~@O|@Mv@Md@Mr@Ml@Md@KPG@?JCZI\\Kj@Ov@Wh@Wr@]@?l@W^QPKPI^STMDCNKHEPKROXSJI\\YNMVURSV[`@]b@k@T[T]HKj@}@Ta@P]N[NYHOVg@BIFIFOT_@Pa@hBoDDIJWHOXo@BGR_@Ra@b@y@Ra@BGXk@\\q@BE\\s@R_@BEVi@NY\\s@HODINY|@iBr@uAR_@Te@@AVg@FOLWLWN_@L_@Rq@HYJ]H]H_@Jm@BQDYF_@BYBQDa@B[@a@@M@O?Q@]@q@@s@?e@@e@?]?c@@_A@_@@]?K@WBYBa@D_@BS@KD]D_@F]H]H_@DOBMH[H[J[N_@HYLYN[LYNYR_@t@gAT[PSRURUf@e@NKXU@CVOXQh@]bAg@\\Oj@[PI^Ql@YVMRIZQVOXMVMTMRIBCVMTIVOh@W\\OLGHGl@YXOdAi@TMTMVOTOVQROVSROTS~@y@PQRSTUPSb@e@T[PSFKHMRWPWLSPYNWP[NWR]x@}Ad@}@Xg@`@s@JSn@mA`@u@P[f@_AR_@PYPYPWPWNSPUFGJMRURQPSRQLKHITQTQXQTOTMTOp@[j@[zAw@dAi@|Ay@dAi@b@UhAm@`@Un@a@VQRMTQTSNKVUTQTU^]V[TUPSPURURWX_@Xc@R[NWPUr@kA\\m@t@mA~@}Ah@}@Xc@\\k@n@eAXe@DGTa@hAiBT_@LUFIHOLSd@u@HMZg@LSPYPWNUPWRYLS^g@`AuAFIHOBCNUJSPWLWNUN[@ENYHQL[JS@Et@kB@EJYL]JYJ[J[JYJ[L]L[BGJ[FQL[LYRg@HOLYL[LWLYN[N[P[DMDG\\q@JWP[BGHSL[LWBGHUL_@HY@C@EPk@Ja@F[Ha@FWBMBOF_@D_@B[D_@D]B_@@YBc@@YBc@@a@?IBg@@K@_@@]Ba@@c@Bc@@W@Y@O?EB]B]Dc@B[B]@EBYDa@BO@MD]D]@IJq@RsAD_@Lw@Fa@RwAL_AD[PiAJw@Ly@Ju@DWJy@F]Fg@DUD[F]D]F]Jm@Je@@EJi@?CDQ?CDMTqABMH]DWZ_BF[Hg@VqAF[FY`@yBFW`@sBd@iCNw@BINs@No@VeAH[Rs@T{@^kAZ{@@ENa@@EL[h@uAd@gAZw@HU@ANc@L[d@wAbAeDL]J_@Vy@DOPk@L_@Pm@\\aAh@aBFOJYTq@zAoEBIv@}BL_@DOZy@n@qB\\iADSDO@CDO@Ed@kBVeADOFSDSPq@Ry@Rw@XiAb@gBLc@BMh@sBh@wBT}@Ry@Lg@XkAHUNq@J[R}@J]H]DOf@_BHSPi@Tm@BE\\w@BGBILUJWRc@NYn@iAXe@FK@?DGFGJO\\i@fAaB\\k@BG`@o@\\k@NSJSNUNS\\k@NUT[FMNSLUHMFIJQR_@NSPWVa@RU^e@DCRUNOJIPQ\\Yz@q@l@g@f@a@\\YfByA^YhCuBRQROPO^[dAaA`@c@DGXYj@q@NSX]PSFIV]PU@??AHMl@y@n@{@b@o@x@mAj@}@V_@LS\\k@NWj@eAf@aAl@gAt@uAXi@r@sAn@mAR]Zm@NYNYlA{BR_@@CJST_@\\s@j@eAVi@?ARe@f@qA?ANe@DQDMLq@?AJ{@@CBW@[?CB_@?S@cA@y@?u@@Y@q@@k@@cA@YD}AD}ABoAD_BBq@Bc@?CHqA@CBe@HcAHqA@AJwAFu@FaAFi@Di@Bg@@i@JwA@IJaA@IHm@NqALcABOD_@@IHu@Fm@@SBY"
+              },
+              "start_location": {
+                "lat": 34.1329641,
+                "lng": -118.3526721
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.3 mi",
+                "value": 3682
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 142
+              },
+              "end_location": {
+                "lat": 34.0264941,
+                "lng": -118.2087877
+              },
+              "html_instructions": "Keep <b>right</b> at the fork to stay on <b>US-101 S</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+              "maneuver": "fork-right",
+              "polyline": {
+                "points": "g{ynEt~qpUFS@GBOHa@@I?CDQBMH[Ha@Pi@L[@CHULUFOFIFMBGFIR[NSVYVY\\[HI^Uj@[`Ac@jAg@j@U~@_@bAa@hBs@PIXKd@O^Mv@STGZKdAUTCZCXE`@Gv@I@?PCp@E^AXAnBCLApBCXAh@?bECnABjADjBNbDb@LBxBV@?`@FnAHR@Z?t@?x@Cj@Ev@Gh@Cn@?B?L?b@@r@@XB\\DN@ZB~@Jb@DN?D@Z@N?b@@|@C|AMJC|A[`@KBAZK@?HETIBAhBw@`@]ZSLKjA}@X[BAVUJMh@g@VYTWRSNSPSLOPS?ATYPWNSJO\\g@NUJQRYLQh@_Ab@w@HSLYN[LYLYJWFKd@mANe@Rk@rA{DdA{CPe@X{@HWFOX{@`@mAh@yALi@Na@Ts@Pi@Xu@d@wADKb@oANc@J]Na@J[L[Rm@L_@JYL]PU"
+              },
+              "start_location": {
+                "lat": 34.0525152,
+                "lng": -118.2258658
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "22.0 mi",
+                "value": 35422
+              },
+              "duration": {
+                "text": "23 mins",
+                "value": 1388
+              },
+              "end_location": {
+                "lat": 33.8261327,
+                "lng": -117.9260045
+              },
+              "html_instructions": "Merge onto <b>I-5 S</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "qxtnE|snpULYPg@\\gAVu@@CHWJ]Ni@H]FSJi@Nm@Ha@VkALo@DUH]F[HYBKDOJ]FWL_@JYDQDKJ[?AJYL]JYJ]J[FSBGJ[J]FOLa@L_@@ARq@JW@EJ[DMDMJ[BIFQL]HYL[J]JYHU@GJ[JYL]Pk@BIHWJ]FMBI@AHYL]J[J[J[BGFSL_@DOBIJY@CJ[Rk@BIJ]BEJ[J[HW@CJ]J[JYJ]FQBIJ[L[J]JYJ[L_@HWJ[FQNa@J]J[DSBIJ]FY@CH]Ha@Ha@?CFYF[F_@F_@?CHk@@IDWD]D]Ba@B[@MDk@Dg@@U?M@QBk@@i@?S@_@?a@AwA?a@?e@?_@?]?_@?Y?E?aA?aAAkAB{A?q@?[?a@?G?qA?EAwC?g@?o@?c@?A?{AAy@?}@@uA?]?m@?_A?M?W@g@?A@cBBm@Ds@BQ@SH}@D_@DYD]F_@DSHg@F_@Jg@He@FWDQRs@FY\\aALa@Na@Vo@@?x@sBz@oBN_@LYFM^}@BGTi@BCTi@Ti@j@qAL[|@uB\\u@p@_BVm@Tg@r@_Bb@cAHSRa@DOJ[FQBGNg@Ng@Ha@FWFSHe@XiBJs@RgAN}@F[Fa@Lk@BOHe@Fa@Lg@DUFQPq@Rq@Ri@Ts@L[Xy@J[JYLa@JWd@uAJYJ[L[J[L]JYf@{Ab@mAJYJ]L[JYJ]Rg@`@kAZ_ANc@L]Ro@JYNc@Pa@Pe@P_@LU`@w@`@m@NWFGRURWNQh@k@TS@AHGHGb@a@JIBCFGVSLKjAcA^[XUJKPQBCNM?A@ATSXYLK?AdAoAJKd@s@`@o@\\m@JUHOLUXm@HSRc@d@}@LQ\\k@@Cb@m@p@{@DEb@k@f@k@b@i@r@{@|@eAf@k@v@aAb@g@p@w@dAoAd@i@^c@Z[d@c@j@k@TSf@g@VWt@q@XWRUf@e@@?f@e@z@y@TSZY~A}A`ByAh@g@t@q@Z[X[d@a@j@c@JINM^WROHE^Ud@W`@Uv@_@RMJEbAg@JGf@Y`@Wr@c@`@]v@m@b@a@RQFIhAeAZ[x@u@xAwA^]~ByB`F{E\\]pBkBnAmAx@u@RUDCfAgADCfAgAx@y@`@_@JKdAcAh@e@LOLIXWTUDClAkAfBcBLM\\_@^]|@y@NOZ_@f@k@V_@LQ^o@f@y@NSXe@n@gALU`@q@FIP[BCBE^m@NYPWNUX_@\\c@@CNQPSNOBCRUf@g@RSRSf@g@TUd@e@f@g@f@g@z@{@`@a@VWJKn@o@|@}@lAmAj@k@NQTSd@g@DEjAiAx@{@z@{@LMl@m@TURSPQRSRSf@g@RSTUPQRSLKFGTSRQPO@ARQLKHGRQVS\\UJIROTOVQ~@o@`@W^WTQh@]LKFETM@APMROLGROTOFGTOHEJGh@_@RMTQJGZUDCZSNI`@WPIVM\\QXMXMXMRIXKTIXIVIDATGBAVGTEDAREr@ORGVEtCo@ZG\\IVGTEVEVGXGZGZIREXGXGXGVGVEDATGZGl@Mf@KVGb@Kt@OREVGXGVGXGLCd@KHATG|Ac@`@MNGFCLETK^Ob@Sf@WPI@Ab@UNKLINIBCFENK~@q@@ALIZYFGd@a@p@q@PSh@m@PQNURWT[LQDGHMPWPYR[DEFK?AJOf@u@BELS`@m@NWPWNUNS@ERYJOBELSDGHOBCLOBELSPYBCBEHOPWNUJQHKNUFKBEFKHKRYJQ@CLQBET]DId@s@b@s@^i@NUJQFKT[R]DGV_@HMr@iAR[n@aAFGHOLQ@CPWLS\\i@JOHMNUR]NWNUFMBEJOPYV]R]d@u@d@q@HMb@q@R]\\g@Va@NUR[V_@Zg@PWT_@JO`@m@Xe@|@uA`@m@R[hAcBf@y@?Ad@s@^i@R[\\e@f@m@^c@V[h@m@POb@c@VURQ^[ZUXSNMPM@?`@Yn@a@^UTMXQb@URMLG@AVOXQNIl@]ZSh@[TMf@YLId@YVOVMd@YNKTM\\S`@Ux@e@XSVMd@YLIfDmBpAw@~@i@pBkAh@[RMXOBC\\S^UXOf@Yp@a@^U^UZQRKVOzA}@ZQj@_@TMt@c@HEbBcAJE\\SZSPIdAm@rAy@NGHEr@_@v@e@xBoAn@]fDmBt@c@dAm@BAx@c@pAq@DCxBmAfB_AhAs@RQh@]zA_AVQ~@k@HG`Am@lBmAr@e@nDyBd@[jCaBx@e@z@k@l@a@NKTOVOJGVQTOXONK\\SVOVOTMHGLGTMXOTOVOFENITMXQTMVOVOVOTOVMVO@ARMHGd@YTOTMVQTOTMVQZSTOTOTOTMTOj@_@TOVO^UVORMh@_@TMVOROFELITMTQNIbAo@HENKVO^UROXQRMVOTOVOVOj@_@ROdAo@`BeAhBgATOxA}@@AfAs@n@a@h@]TQdDqBd@_@dA}@TQTQRQTSx@u@HGJKTUTUTSNQRS?AXYNQRUX[PSRWd@m@PSRWPWNSRWPY`@m@r@iANWNW`A_BNWNYLY^s@Zm@DGh@kALY^y@HO@CNYDMXk@N]NYLYP]LWLYNYL[NWNY^s@NYNYP[^k@PYNUNSPUJOLQFI\\c@PSPWNOHKV[@Cd@e@RUXWXWRUnBmB`A_A`A_AHK@?pDmDRU^_@|@{@dCcCFGFGLOz@{@HId@g@PQX[b@g@BANSHKFGV]^c@Z_@JONS@A\\e@T[PURYFGb@o@LUZe@Zc@R]`@o@R]NWDIJSXg@LSLWXi@PYLWP]`@w@?A`@w@LYDKdA_CN_@d@eAXm@DIN]p@{A@Cn@wAHSTi@FMdB{D@Cj@oAN_@JW\\w@N]Rc@DKDM|@uBJSHQZw@HQv@gBHQh@kAb@_Aj@kAJSP_@BGVg@^u@Vg@DIh@cAHOh@gA`@w@d@_Af@_ARc@FIhAyB@E|@cBFOHO\\s@jA_Ch@kAb@_Ah@gAL[f@iAHQfAgCPc@j@sAN_@`B_EJQLYHSRc@d@iAFO\\{@Vo@N[Rg@d@kAPa@Xo@JYXo@L]JWPc@`@aAL]Pc@Pc@d@gApAeD^_AJWP_@|AoDjBsEpBuEx@gBRc@rAiC\\q@P_@p@uApAkCdEiIzDqH`AkB~@uBlA}B|AsDj@sApAuCp@yAlAmCDKhAoCBKvCoH~@{CXy@Pi@LYTs@V{@Z_AZ_ARm@^iAVq@DMDOZ{@r@uBzBgFpAqCdAyBxAqCx@kAp@gAv@eA`AuA~@uAn@u@n@w@nA{AdAeArAcBV_@\\k@`@o@^o@^o@b@y@Xi@NYP[h@iA~@uBLW?ARc@lAoCxAeDnAuCf@gARc@x@mB\\q@`@y@b@cAHQXs@h@oADKTg@\\w@dAaC|AmDDK@ARg@BC^y@HUfDwHlAoCn@uABGRc@Rc@P_@h@mAb@aA@EFMFMHSFOFMFKJYJSHQHSDIDKN[HQDGN[LW@CJQP[NYNWNWLUBCNWR]NWNYPWNWNYPYNWBC\\m@PYJQ|AkC^q@NYP[NYN[FIHQ^y@JSBGXk@BGFOL[N[BGJUN_@J[@Cl@aBd@sAjBiFb@iA\\aAL_@dDcJd@qATs@L]La@Ts@j@oBDO`@cBH]H[H[H]H]H[H[d@eB\\_AXw@Xo@BIXm@N[N[dAiBHQ`@m@@AT[JOV]r@cAf@s@^i@j@{@FITa@^o@r@qAVg@Vi@Rc@DGXq@DI`AwBLULYLYN]NYLYLYLYHQLYP_@JUN[N[LYLYJWN]LYLWN[N]JWLYN]LYL[LYLYL[DMFML[LWL]LYJ[N[L]JYLYL_@L[LYJ]`AgCTk@Tk@LYJ[BEHWLYL[JWJYL]N]L[JWNa@HQLY@ELYJYFMBGbAqCPa@JYL[LYHONa@N[L]LYJ[LYL]LYL[FQN_@Na@JYHSVg@d@cANYN]LYNWLYP[NWNY^q@NYNUPYNWNYPYNWPWNYNWLSBCNYNWPYN[NYDEJSLYNYLYNYLYN[FQRc@LWL[LY@AJWN]LWN[JYDIHQLYLYN[LYJWDKFON[LYN[L[LWLYNYPa@JWN[DKDIN_@LYJWN[FMDMP]LYJWLWN]JUHSBEN[JWN]LYJUHQDKL[N[LYLWL[JUDGTk@LWN[L[LYJULYN]HSN[LYN[L[FMFKJWJWN[LYPc@HQNYLYLYL[LWL[LYVm@P]h@oALWN[HUP_@P_@JWFKFQJSNa@r@gBRq@J]J[H[H]FSBKF[BYReAp@iERqA^eC`@uCTyA@GHo@Hc@F]He@Ha@Li@DMBMFU@CDOFUFQFUX_A@EPc@HSBIPa@HSRa@HSVe@Tc@\\m@Zg@\\k@^e@`@i@PSJM`@e@vC_DNOJMh@k@NOZ]jAoA|@aAx@}@TUHKTWRSX[TUb@e@X]^_@f@i@VY\\_@XYJKFGJKFGTUPQFEd@c@`@_@LKZY\\WTQPM\\Y"
+              },
+              "start_location": {
+                "lat": 34.0264941,
+                "lng": -118.2087877
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1092
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 143
+              },
+              "end_location": {
+                "lat": 33.8172447,
+                "lng": -117.9222609
+              },
+              "html_instructions": "Take exit <b>110B</b> to merge onto <b>Disneyland Dr</b> toward <b>Ball Rd</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "itmmEnlwnUNBHBB?@?@?@?HGhAo@\\Qf@]JIx@o@PM\\Y\\YFEVSrBaBbBuAZY\\W\\Yx@q@PKFCHCJCHCH?@?D?\\?h@\\b@Zn@KR@J?NALETEFC@?@APELC^ITIt@QNEVEfAYDAn@OZIFAHEv@QPCFAVGHA@?@?BAB?VE^E`@GLCTAVCH?HAB?VAT?P?"
+              },
+              "start_location": {
+                "lat": 33.8261327,
+                "lng": -117.9260045
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "433 ft",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 33.8160897,
+                "lng": -117.9225226
+              },
+              "html_instructions": "Keep <b>left</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "w|kmEbuvnUFCFAL@B?B?b@B^Ff@H`@Lp@R"
+              },
+              "start_location": {
+                "lat": 33.8172447,
+                "lng": -117.9222609
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "cdjoEvmjqUm@DWXFTP@nAMhBC^FTRXJl@ZbAp@~D~B^JRDZSLgANu@\\gA~A_Dr@eAAc@^a@fAkAn@q@hCoCrFyFdHkH|B{B`DwBzCgBzC_C`OoQ~CeDvEsDvBwAfCmA|DwA~EiA`Fw@pLsBfFaB|E_ChCiBrAsApBcC~CwFbIePrJoRnB{E~@oE^iEFcHT}Fr@iEzAqEfB{CnA{ArAkA~CgBpFkCjL{FpDaC|E_FxBcD|E}ItEkI`CsC|C{B|McHrDwBnA_AtDwDdEgG~HsMhIwMhD_FfBgDtEeM`F{KvAiDdAgEh@wER{En@iLzC{TbC{OvEkVnCeM|CcJlAwCfC}HfCcIxFuPbC}HfIa\\`CmJjCwHnCmFfDcFfGuJlAmBlAuAzF{EpLyJpDgEvDiFlGkKtMqVvAwC|@kCf@yDL_J`@_PbBoV`AiIn@_F~@qD|@iBrAcBrBwArMmFrCy@rCi@rFe@hGKlFCzCHvKnAfCRlIU~BFhCVfEFhBQ~Bg@j@SbCcAvC{BlDoDxBsCtDcG|BoFzFsPzIsWz@eC^o@n@oBn@oBl@eC`BuHbAiDfDeKnHyTjI}V|@{Dj@sDf@sFJaF?aUAiYF{DTwC|@{FnBcHtD{I`MoYzAyEjBqKfAuFnCmItGkR~CcJbA}BzAeCbCiCvDcDjBaBpC{CpBgDz@gBdB_D|AsBdJyK|DuEbC_CtFkFjLuKdEgDnGgD~CsBvBkBxSaSxT_TzIoIjB{BdBoCzCeFzCoE~LcMrRuRfG}FfKmHdHyEtDqBnDqAnN{ClLeC`FeAzEyA`EsBvCwBpE}EpBwCdF_I~C{EdP{VxVc`@fFmHvB}BfByAdEoCbDkBtNoIdWaO|P}J|^sSlLiHzTkN`JsFlUoNx_@_VbDuBfHaFzDiDlCsClDmElFqIvD}HtFeLtCuE|BwC`S_SbMmMdDiEjDeFjH}MpM{YrJwTlKySnHcOrG_ObKkVrCgHpKmWrGkNrDsHbO}YhH{OnEcKtFqOxDkL~@kCnD}IvCkGrC}EhBmC`FyGtCaDjBcC~B{DvEsJlR{b@dXom@dPgYlBgEpCoHjL}[tCoK\\wAfByFfAcC`CeEbFiHzDkHzGaOdFkL~Mo]tFkNhBuEpCmGtGiLvEcJzKwVpZ}q@jCcHf@iBb@gCrDmV|@eEtAkEhCmFzBcDvEgFtHgInJaKhD_DbBqA^FvAw@jCiBdIsGpC}Bn@WZC\\?h@\\b@Zn@K^@\\G`@KzFuAtD{@dBWlCUv@Ex@DzCr@"
+      },
+      "summary": "US-101 S and I-5 S",
+      "warnings": [],
+      "waypoint_order": []
+    },
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 34.156417,
+          "lng": -117.922238
+        },
+        "southwest": {
+          "lat": 33.8160897,
+          "lng": -118.3626681
+        }
+      },
+      "copyrights": "Map data ©2022",
+      "legs": [
+        {
+          "distance": {
+            "text": "40.0 mi",
+            "value": 64443
+          },
+          "duration": {
+            "text": "50 mins",
+            "value": 2980
+          },
+          "end_address": "Disneyland Dr, Anaheim, CA 92802, USA",
+          "end_location": {
+            "lat": 33.8160897,
+            "lng": -117.9225226
+          },
+          "start_address": "5543 Universal Studios Blvd, Universal City, CA 91608, USA",
+          "start_location": {
+            "lat": 34.1358593,
+            "lng": -118.3511633
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 336
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 107
+              },
+              "end_location": {
+                "lat": 34.1338502,
+                "lng": -118.3521771
+              },
+              "html_instructions": "Head <b>north</b> on <b>Universal Studios Blvd</b>",
+              "polyline": {
+                "points": "cdjoEvmjqUOAA?E?E?A?E@CBC@CBC@A@CBCBCB?@AB?@?@?@?@?@?@@@?@@@@@@@@?BB@?@?@?@?@?@AB?@??AB?@?ZGJCZ?TCPC@?T?B?P?PB@?PBLBLJFFHDB?FBB@FDB?FDB@FBB@FD@@FDB@TNRN@@FDB@BBBBPLf@X"
+              },
+              "start_location": {
+                "lat": 34.1358593,
+                "lng": -118.3511633
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.5 mi",
+                "value": 852
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 47
+              },
+              "end_location": {
+                "lat": 34.1362932,
+                "lng": -118.3606797
+              },
+              "html_instructions": "Turn <b>right</b> to merge onto <b>US-101 N</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "qwioEbtjqUBTBF@H@H@L?R?J?T?HANCVC`@Ej@I`ACP?FE`@CZEVE`@Gp@Ip@Kz@Kp@ANET?@?@Hh@@FEN?@G\\I^K\\GZCLEPIZETI\\CFGVCLERI\\I^I^IV?BADGVGVADIXKZCHCFCLKXIRCJKTKVOZCDKTOZSZKRCDMRILY`@OTOV"
+              },
+              "start_location": {
+                "lat": 34.1338502,
+                "lng": -118.3521771
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.2 mi",
+                "value": 282
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 29
+              },
+              "end_location": {
+                "lat": 34.1381573,
+                "lng": -118.3626681
+              },
+              "html_instructions": "Take exit <b>12A</b> for <b>Lankershim Blvd</b> toward <b>Universal City</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "yfjoEfilqUI?SAA??@A?A?EFSXGHMNIHCDIHIJKLg@l@w@dA}AnB[\\YZ"
+              },
+              "start_location": {
+                "lat": 34.1362932,
+                "lng": -118.3606797
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.4 mi",
+                "value": 574
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 75
+              },
+              "end_location": {
+                "lat": 34.1429092,
+                "lng": -118.3613548
+              },
+              "html_instructions": "Turn <b>right</b> onto <b>Lankershim Blvd</b>",
+              "maneuver": "turn-right",
+              "polyline": {
+                "points": "orjoEtulqU{@a@o@Yy@_@UKgAi@oAm@_@Q[Qa@Qk@WMW[OECECEACAECEAECEAA?CACAICIAEAGAGAIAMAO?i@@s@?E?G@I@IBA?ODODGBC@MF[LSHA@u@Z"
+              },
+              "start_location": {
+                "lat": 34.1381573,
+                "lng": -118.3626681
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1101
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 110
+              },
+              "end_location": {
+                "lat": 34.1527969,
+                "lng": -118.3615098
+              },
+              "html_instructions": "Slight <b>right</b> onto <b>Cahuenga Blvd</b>",
+              "maneuver": "turn-slight-right",
+              "polyline": {
+                "points": "epkoElmlqUC?C?E?IDIBG@G?I@g@?Y?c@?Q?G?C@C@C@C@]?c@?k@?O?e@?sA?{@?W@s@?q@?W?Q?M?S?w@@q@?mB?eAAaA?C?m@@s@AU@aA@a@?s@@u@?}@?e@?A?g@@w@?u@?WA_B?K?e@?g@?i@@e@?Q?U?"
+              },
+              "start_location": {
+                "lat": 34.1429092,
+                "lng": -118.3613548
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "4.4 mi",
+                "value": 7029
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 261
+              },
+              "end_location": {
+                "lat": 34.1532528,
+                "lng": -118.2870338
+              },
+              "html_instructions": "Turn <b>right</b> to merge onto <b>CA-134 E</b> toward <b>Pasadena</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "_nmoElnlqUCgAGeCCg@Cs@?AA_@?I?M?]?S?]?i@?A@_@?S?I?U@u@Ue@@o@BwABw@?e@@M@s@@}A@_@?uA?e@?q@?q@AmAAu@EaBCy@Aa@CaAGyAGaAA_@Ec@Eu@Em@Gy@I}@Ec@MqAGo@KgAIs@OuAGs@C[CMEc@AOGi@IeAEi@?CEk@Ck@Cq@EcAAe@EiA?o@A{AAmA?A@}@?O@m@@eAHuABk@?OFcA@W@QHiABc@TaDDs@HaADk@JkBL_BB]B_@D_@Fu@Fi@BU@MDYL{@D]Ly@?CHi@DWRmADURoANaAJm@Jw@F]Jw@Fm@@Q?CDe@B[?M@Q@_@?G@c@@g@Am@?YAe@AYAU?GEs@Ei@CYE]AKE[MiAIs@Ku@?CGg@EQE[CQGa@UmBQuAOoAGm@Ky@COGk@OoAMaAGm@Gc@CU?AAG?AC_@Ku@AKE]?AGc@McAKaAKy@E]CSMaAKw@K}@SeBIk@Ee@Ge@CSUgBIq@QuAGk@Io@E_@Kw@?AIq@C[AA?IE[Ck@CWAU?E?IAQA_@Aw@?e@@q@@W@Y@YBk@Dc@@SBYJiA?AJiALsADc@PaBDg@Di@B[?AD{@Bu@?_@@e@?Q?SAg@?AA_@A_@KaBCWEe@Im@E]G]?AO_AMy@AKMq@CWYeBs@}EGe@e@{C[uBG_@Km@Kq@Gc@G_@g@gDAEEa@M{@Ee@E_@KqA?GC]AWCc@AWAa@?WAc@?_A?{@BaAB}@@WBYBi@JqAD[NyADa@Dm@H{@D_@JiAfA}MBWN}AJqA@ELgBFgALsCB_A@i@?s@?kG?aA?Y@S?[@M@W@OB[De@D]D[@GF[BKDYDO?AHWFUFUFSTk@HSDMRa@x@aBfA}Bd@cAP]|@iB"
+              },
+              "start_location": {
+                "lat": 34.1527969,
+                "lng": -118.3615098
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "9.9 mi",
+                "value": 15872
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 722
+              },
+              "end_location": {
+                "lat": 34.0359057,
+                "lng": -118.2208282
+              },
+              "html_instructions": "Take exit <b>5B</b> to merge onto <b>I-5 S</b> toward <b>Los Angeles</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "ypmoE||}pUNQHMbAgBNYFMBGHSBGL]L_@H[FQBKF[F_@@IBOBSBODY?E@IPqAD[BOB[DUD_@D]@KF_@F[FY@CFS@G@GFSFSBGFMBI@CJW@CJUNW@CHOHM@CPWPURWNQ@A?ADKDULMRQVU~@q@TOVORMVMXOVKn@YVIh@Mn@Qz@OzE_AdDq@zAYzCk@hBY~B_@d@Gp@IrASnDc@\\CDAHAx@MvASLCPCHADAVGl@Or@Sp@Sr@Uj@OHC~@YVIDAXIRGFCTGXIFAJELCNETG^GJC`@IdAUREf@K\\GFA\\Id@GVGn@MXEp@Mx@Ql@Mj@ObDk@hAWz@Ob@Kp@MhB]x@OnCg@^Ip@M`Ce@XEVGjAUjAUbB[NCb@Ij@Mn@Kb@IXGVGr@MjAUt@Oj@Mz@Q\\Gd@Kj@Ih@IVGdAQLELCZGrFeAh@KpAWr@On@Qr@QZITGDCVIXIZK\\Md@OVKFCf@QLEJE@ANGZMLGTKXMVKn@YHCTKZO\\Oh@U^QVKXMj@Un@Y^OZMHEFC\\MZMDANGPIRKj@U`@QLIj@Uj@WnAi@l@Y`@OVMLEPIPIb@Sn@Wd@U`@OJEZORIJGTKLG@AVMLI^WPKDEROROTSRSTSJKBENQTYNQPUT[PYFKHMHKNWNUHMLSLSHOT_@T_@NWFKHMR[^q@@?R_@^m@HK\\k@FKp@kAJQZm@Tc@NUBIz@aBb@}@Pa@P_@^_A`@aA\\}@Tk@N_@`AaCRi@FOJUVo@JY\\}@HQ\\{@hAqCL_@LUZ{@`@cAPc@N]Rc@Xm@DIZo@NYb@u@FKLUXe@j@{@\\i@p@eAT_@pAsBV_@Va@d@w@@I@A`@q@LQ\\i@\\i@p@eAh@y@Vc@T]NUZe@RYT[FIl@u@j@m@JKX[VUTSDEJIXWv@k@|@k@x@g@vA{@nAu@^S`Am@NINK\\UPM^[h@c@HEhBeBDEf@g@ZYh@i@`C_Cf@e@z@{@RQTUp@q@TU`@_@`@_@lAmArAqAx@w@`AaAd@c@PQHIFGHIVU`@a@t@u@x@w@XWj@e@z@{@dAcAJKRSPQRQFGZ[DE\\[TWPOJKLMb@c@VY@AFELOBCRSHKX]TWDG\\a@LQTY?APUPUPW`@m@HOb@q@T_@T_@NW?AHMNYP]NYR_@z@aBx@_BDIP]Ta@pAgCR]l@sAXi@JSLWNWP[JSN[FMXg@NY^o@JSBGf@y@FIT_@`@o@PWRYV_@Va@V_@p@eAf@u@?Af@{@NWDKJUXi@HSDMN]HSNc@JYNm@@CDODOH]Je@FWF[Ha@Hc@ReA\\cBVmAJk@Hc@DQFWDUFUH]HUDSLa@X}@L[JWL[JWN]LWLWLW?AT_@LUHOHMDKT[PWHKHMPUNSRWPSj@m@VWNOf@e@JGr@m@PKRQHCJIVOXSTMBARKNI`@OZMPGBCZI@ANEXGREZGXGx@GRAXAVA\\AV?R@`@?V@V@X@Z@F?N@X@X@lADZ@X@Z@T?\\@f@Ad@AZATCZCXChAQJC~@UXIp@U@Az@]XOp@]^Ut@a@^ShAo@TMRKJGJGVMn@_@DCh@YFC`B_Ap@[^ONGp@Up@QZGHCh@IVEJAlAK~@EtAAXAV?TAbAAt@Ah@Ch@A~AKd@C`AKfAMz@MzAYtA[x@SZIfAWDARIv@Ov@UvA]FCFAx@SFCfAWjBa@bAS^KFARCh@GHAPCTARCh@ETA\\AdAEV?\\AN?PAT?PAZ?J?@?h@Az@AxACz@A@?LAL?Z?f@APAR?F?ZA\\?tACv@Aj@A^AZ?ZAR?@?VAH?H?`ACp@A\\@tA?dA?x@@l@BdAD\\BZBl@Dr@Hr@HZDVD^Fh@Jf@HFBhCl@n@Rn@RbA\\d@PXLnAh@NFLHLFr@^RJHDt@b@vBnAHFv@d@`@TrAv@B@PL\\PZRpAr@pAv@n@^f@XTNz@f@ZPt@b@r@b@ZPB@n@\\LFPHJFJDJBXLl@Rj@ND@|AZB@hAVRDzA\\VFB@D@dAXxAb@NDr@RXJXJz@X"
+              },
+              "start_location": {
+                "lat": 34.1532528,
+                "lng": -118.2870338
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "23.1 mi",
+                "value": 37173
+              },
+              "duration": {
+                "text": "24 mins",
+                "value": 1468
+              },
+              "end_location": {
+                "lat": 33.8261327,
+                "lng": -117.9260045
+              },
+              "html_instructions": "Keep <b>left</b> to stay on <b>I-5 S</b>, follow signs for <b>CA-60 E</b>/<wbr/><b>Interstate 5 S</b>/<wbr/><b>Soto St</b>/<wbr/><b>Santa Ana</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "msvnEd_qpUPE@?h@Pl@PLDnA`@NDTFZJVFLBHBRDB?L@R@R@B?L?B?\\CHAJCLCLEPGJEJELGPK\\Yn@c@PMx@q@PODEXSZWx@s@LI\\YTSVQf@c@XUz@q@tAiAJIPOVSJKFGNMPQNSJKPWFINYNYL]N[Ng@HYBKBOBOBKBQD[D_@@Q@MD]B_@?CD]B]Bc@@IBQBYBa@BU@GD]D_@D]F]Jq@H[DUH]Je@Pq@H]BMJc@J_@Lc@FYH_@C[FA?A@?@KH]@G@CVcAV_A?ALc@J_@J]Pi@Tw@H[JWH[JYFWFM@EFSJ[?AAWLYPg@\\gAVu@@CHWJ]Ni@H]FSJi@Nm@Ha@VkALo@DUH]F[HYBKDOJ]FWL_@JYDQDKJ[?AJYL]JYJ]J[FSBGJ[J]FOLa@L_@@ARq@JW@EJ[DMDMJ[BIFQL]HYL[J]JYHU@GJ[JYL]Pk@BIHWJ]FMBI@AHYL]J[J[J[BGFSL_@DOBIJY@CJ[Rk@BIJ]BEJ[J[HW@CJ]J[JYJ]FQBIJ[L[J]JYJ[L_@HWJ[FQNa@J]J[DSBIJ]FY@CH]Ha@Ha@?CFYF[F_@F_@?CHk@@IDWD]D]Ba@B[@MDk@Dg@@U?M@QBk@@i@?S@_@?a@AwA?a@?e@?_@?]?_@?Y?E?aA?aAAkAB{A?q@?[?a@?G?qA?EAwC?g@?o@?c@?A?{AAy@?}@@uA?]?m@?_A?M?W@g@?A@cBBm@Ds@BQ@SH}@D_@DYD]F_@DSHg@F_@Jg@He@FWDQRs@FY\\aALa@Na@Vo@@?x@sBz@oBN_@LYFM^}@BGTi@BCTi@Ti@j@qAL[|@uB\\u@p@_BVm@Tg@r@_Bb@cAHSRa@DOJ[FQBGNg@Ng@Ha@FWFSHe@XiBJs@RgAN}@F[Fa@Lk@BOHe@Fa@Lg@DUFQPq@Rq@Ri@Ts@L[Xy@J[JYLa@JWd@uAJYJ[L[J[L]JYf@{Ab@mAJYJ]L[JYJ]Rg@`@kAZ_ANc@L]Ro@JYNc@Pa@Pe@P_@LU`@w@`@m@NWFGRURWNQh@k@TS@AHGHGb@a@JIBCFGVSLKjAcA^[XUJKPQBCNM?A@ATSXYLK?AdAoAJKd@s@`@o@\\m@JUHOLUXm@HSRc@d@}@LQ\\k@@Cb@m@p@{@DEb@k@f@k@b@i@r@{@|@eAf@k@v@aAb@g@p@w@dAoAd@i@^c@Z[d@c@j@k@TSf@g@VWt@q@XWRUf@e@@?f@e@z@y@TSZY~A}A`ByAh@g@t@q@Z[X[d@a@j@c@JINM^WROHE^Ud@W`@Uv@_@RMJEbAg@JGf@Y`@Wr@c@`@]v@m@b@a@RQFIhAeAZ[x@u@xAwA^]~ByB`F{E\\]pBkBnAmAx@u@RUDCfAgADCfAgAx@y@`@_@JKdAcAh@e@LOLIXWTUDClAkAfBcBLM\\_@^]|@y@NOZ_@f@k@V_@LQ^o@f@y@NSXe@n@gALU`@q@FIP[BCBE^m@NYPWNUX_@\\c@@CNQPSNOBCRUf@g@RSRSf@g@TUd@e@f@g@f@g@z@{@`@a@VWJKn@o@|@}@lAmAj@k@NQTSd@g@DEjAiAx@{@z@{@LMl@m@TURSPQRSRSf@g@RSTUPQRSLKFGTSRQPO@ARQLKHGRQVS\\UJIROTOVQ~@o@`@W^WTQh@]LKFETM@APMROLGROTOFGTOHEJGh@_@RMTQJGZUDCZSNI`@WPIVM\\QXMXMXMRIXKTIXIVIDATGBAVGTEDAREr@ORGVEtCo@ZG\\IVGTEVEVGXGZGZIREXGXGXGVGVEDATGZGl@Mf@KVGb@Kt@OREVGXGVGXGLCd@KHATG|Ac@`@MNGFCLETK^Ob@Sf@WPI@Ab@UNKLINIBCFENK~@q@@ALIZYFGd@a@p@q@PSh@m@PQNURWT[LQDGHMPWPYR[DEFK?AJOf@u@BELS`@m@NWPWNUNS@ERYJOBELSDGHOBCLOBELSPYBCBEHOPWNUJQHKNUFKBEFKHKRYJQ@CLQBET]DId@s@b@s@^i@NUJQFKT[R]DGV_@HMr@iAR[n@aAFGHOLQ@CPWLS\\i@JOHMNUR]NWNUFMBEJOPYV]R]d@u@d@q@HMb@q@R]\\g@Va@NUR[V_@Zg@PWT_@JO`@m@Xe@|@uA`@m@R[hAcBf@y@?Ad@s@^i@R[\\e@f@m@^c@V[h@m@POb@c@VURQ^[ZUXSNMPM@?`@Yn@a@^UTMXQb@URMLG@AVOXQNIl@]ZSh@[TMf@YLId@YVOVMd@YNKTM\\S`@Ux@e@XSVMd@YLIfDmBpAw@~@i@pBkAh@[RMXOBC\\S^UXOf@Yp@a@^U^UZQRKVOzA}@ZQj@_@TMt@c@HEbBcAJE\\SZSPIdAm@rAy@NGHEr@_@v@e@xBoAn@]fDmBt@c@dAm@BAx@c@pAq@DCxBmAfB_AhAs@RQh@]zA_AVQ~@k@HG`Am@lBmAr@e@nDyBd@[jCaBx@e@z@k@l@a@NKTOVOJGVQTOXONK\\SVOVOTMHGLGTMXOTOVOFENITMXQTMVOVOVOTOVMVO@ARMHGd@YTOTMVQTOTMVQZSTOTOTOTMTOj@_@TOVO^UVORMh@_@TMVOROFELITMTQNIbAo@HENKVO^UROXQRMVOTOVOVOj@_@ROdAo@`BeAhBgATOxA}@@AfAs@n@a@h@]TQdDqBd@_@dA}@TQTQRQTSx@u@HGJKTUTUTSNQRS?AXYNQRUX[PSRWd@m@PSRWPWNSRWPY`@m@r@iANWNW`A_BNWNYLY^s@Zm@DGh@kALY^y@HO@CNYDMXk@N]NYLYP]LWLYNYL[NWNY^s@NYNYP[^k@PYNUNSPUJOLQFI\\c@PSPWNOHKV[@Cd@e@RUXWXWRUnBmB`A_A`A_AHK@?pDmDRU^_@|@{@dCcCFGFGLOz@{@HId@g@PQX[b@g@BANSHKFGV]^c@Z_@JONS@A\\e@T[PURYFGb@o@LUZe@Zc@R]`@o@R]NWDIJSXg@LSLWXi@PYLWP]`@w@?A`@w@LYDKdA_CN_@d@eAXm@DIN]p@{A@Cn@wAHSTi@FMdB{D@Cj@oAN_@JW\\w@N]Rc@DKDM|@uBJSHQZw@HQv@gBHQh@kAb@_Aj@kAJSP_@BGVg@^u@Vg@DIh@cAHOh@gA`@w@d@_Af@_ARc@FIhAyB@E|@cBFOHO\\s@jA_Ch@kAb@_Ah@gAL[f@iAHQfAgCPc@j@sAN_@`B_EJQLYHSRc@d@iAFO\\{@Vo@N[Rg@d@kAPa@Xo@JYXo@L]JWPc@`@aAL]Pc@Pc@d@gApAeD^_AJWP_@|AoDjBsEpBuEx@gBRc@rAiC\\q@P_@p@uApAkCdEiIzDqH`AkB~@uBlA}B|AsDj@sApAuCp@yAlAmCDKhAoCBKvCoH~@{CXy@Pi@LYTs@V{@Z_AZ_ARm@^iAVq@DMDOZ{@r@uBzBgFpAqCdAyBxAqCx@kAp@gAv@eA`AuA~@uAn@u@n@w@nA{AdAeArAcBV_@\\k@`@o@^o@^o@b@y@Xi@NYP[h@iA~@uBLW?ARc@lAoCxAeDnAuCf@gARc@x@mB\\q@`@y@b@cAHQXs@h@oADKTg@\\w@dAaC|AmDDK@ARg@BC^y@HUfDwHlAoCn@uABGRc@Rc@P_@h@mAb@aA@EFMFMHSFOFMFKJYJSHQHSDIDKN[HQDGN[LW@CJQP[NYNWNWLUBCNWR]NWNYPWNWNYPYNWBC\\m@PYJQ|AkC^q@NYP[NYN[FIHQ^y@JSBGXk@BGFOL[N[BGJUN_@J[@Cl@aBd@sAjBiFb@iA\\aAL_@dDcJd@qATs@L]La@Ts@j@oBDO`@cBH]H[H[H]H]H[H[d@eB\\_AXw@Xo@BIXm@N[N[dAiBHQ`@m@@AT[JOV]r@cAf@s@^i@j@{@FITa@^o@r@qAVg@Vi@Rc@DGXq@DI`AwBLULYLYN]NYLYLYLYHQLYP_@JUN[N[LYLYJWN]LYLWN[N]JWLYN]LYL[LYLYL[DMFML[LWL]LYJ[N[L]JYLYL_@L[LYJ]`AgCTk@Tk@LYJ[BEHWLYL[JWJYL]N]L[JWNa@HQLY@ELYJYFMBGbAqCPa@JYL[LYHONa@N[L]LYJ[LYL]LYL[FQN_@Na@JYHSVg@d@cANYN]LYNWLYP[NWNY^q@NYNUPYNWNYPYNWPWNYNWLSBCNYNWPYN[NYDEJSLYNYLYNYLYN[FQRc@LWL[LY@AJWN]LWN[JYDIHQLYLYN[LYJWDKFON[LYN[L[LWLYNYPa@JWN[DKDIN_@LYJWN[FMDMP]LYJWLWN]JUHSBEN[JWN]LYJUHQDKL[N[LYLWL[JUDGTk@LWN[L[LYJULYN]HSN[LYN[L[FMFKJWJWN[LYPc@HQNYLYLYL[LWL[LYVm@P]h@oALWN[HUP_@P_@JWFKFQJSNa@r@gBRq@J]J[H[H]FSBKF[BYReAp@iERqA^eC`@uCTyA@GHo@Hc@F]He@Ha@Li@DMBMFU@CDOFUFQFUX_A@EPc@HSBIPa@HSRa@HSVe@Tc@\\m@Zg@\\k@^e@`@i@PSJM`@e@vC_DNOJMh@k@NOZ]jAoA|@aAx@}@TUHKTWRSX[TUb@e@X]^_@f@i@VY\\_@XYJKFGJKFGTUPQFEd@c@`@_@LKZY\\WTQPM\\Y"
+              },
+              "start_location": {
+                "lat": 34.0359057,
+                "lng": -118.2208282
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1092
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 143
+              },
+              "end_location": {
+                "lat": 33.8172447,
+                "lng": -117.9222609
+              },
+              "html_instructions": "Take exit <b>110B</b> to merge onto <b>Disneyland Dr</b> toward <b>Ball Rd</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "itmmEnlwnUNBHBB?@?@?@?HGhAo@\\Qf@]JIx@o@PM\\Y\\YFEVSrBaBbBuAZY\\W\\Yx@q@PKFCHCJCHCH?@?D?\\?h@\\b@Zn@KR@J?NALETEFC@?@APELC^ITIt@QNEVEfAYDAn@OZIFAHEv@QPCFAVGHA@?@?BAB?VE^E`@GLCTAVCH?HAB?VAT?P?"
+              },
+              "start_location": {
+                "lat": 33.8261327,
+                "lng": -117.9260045
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "433 ft",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 33.8160897,
+                "lng": -117.9225226
+              },
+              "html_instructions": "Keep <b>left</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "w|kmEbuvnUFCFAL@B?B?b@B^Ff@H`@Lp@R"
+              },
+              "start_location": {
+                "lat": 33.8172447,
+                "lng": -117.9222609
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "cdjoEvmjqUm@DWXFT`BKhBCnAf@pBlA`An@Hf@A~ByAbO?|A_AhEqBjI}@fCaB|CcA|A_@?}@dAaFlGu@x@kB{@gFcCiCmAu@o@g@QeAQqCHsEzAqKH}j@FwB@SiHAiCBuDUe@DgCF_D?aNg@_N_CoWe@gJEaLXsHfAoPp@aIjAaI|AqKN_DCqF]}D{CyV}Gsk@g@oEOsERgGfAqLTqG[}GuFe_@_BgL_@mGFoI~@wKhC}ZZeI?{KVeEh@oCjCqG|DiIlBaDfA}C`@eC|AqKfBkEtA}BrEcDxB_ApJoBfOqCjHeAnKuAzGiB`IwBzv@cOdTaE`P}ChFyAxIkD|KwEbN_GhF{BhCyA|BsB`CcDpF_J~DaHxEcK|JyVnDmI~EcIfMiSlEqF~@y@hEwCxImFpH}GzVkVlN}MjGsGrGsJ`MeVtHmMfE_H~AwDlDaPdAyEpByF`B}CvB{C~EqEhC_BpCeAbFk@|LXhFOnDu@hCeAzGsDxF_DrCiA`Cg@pDY|CElEInGi@dLeC`JyBpHuA`L]tQWxCEfFCrFJbHt@bFfAhEvAfFbCzJ~F|R`L|@^|D`AdHbBvDhAfB^fEpAfCj@pBEbCkAbGyEhLuJt@gA|@{Bh@_Dz@uJpAuGdAmEFk@vAsFfBaG\\cAJs@xBgHbB}HrCmJbIoVhHiT`DmKzAwKTsF?_I?oX?wLPgHt@eGdBgH|HgRxKwW~DiTbGwQrHoT~@eCbB{CnC_D~GaGnAmAxC_E`AiBnDsG`IqJzI_KlGeGbKmJxF_F|EmCxCaBpDqCtLcL|QkQxQeQhCgClBmCjEiHpCcEfCoCvQwQhMkMpGsFxJyGbIeFhEeB~Bk@fPkD`MkCjFwAfEoBjCiBvEsEbFsHjEwGxLeRfSg[hNcTjFwFjE}CxKoGzTqM|e@yX|QeKbNgIt[gSdTiMjWePfZeRpKsJnDiE|DeGzEaJxByExBqEbDyFdCeD`DgDvWoWvGyHnDeF`DmFzI{QrKoVtK_V`MkVjIsQfF{LlImSfFkMtJaUvC_GdO}YlHsOhNi\\~EiOpAwDpEiLvCkGrC}EjFyHtFoGjD_FhGyLtIuRhNi[~Ns\\dD_HzFyJ|H{NnPgd@dDiL`BqGtAqD~BoEbEcGlFeJdDiHdFcLhNi]lMa\\jCgGlCiFxFwJzKgVrKkVdLiWfHoPrAaFvDyVfA_GbAmDpBsElEwGhRmStJ{J|AoAn@g@XFH?xCgBrDuCbKeIh@KF?fA\\b@Zn@K^@z@Q~Cw@zFuApFq@dBEnBTrA`@"
+      },
+      "summary": "I-5 S",
+      "warnings": [],
+      "waypoint_order": []
+    },
+    {
+      "bounds": {
+        "northeast": {
+          "lat": 34.1362076,
+          "lng": -117.9222609
+        },
+        "southwest": {
+          "lat": 33.8160897,
+          "lng": -118.3526406
+        }
+      },
+      "copyrights": "Map data ©2022",
+      "legs": [
+        {
+          "distance": {
+            "text": "41.8 mi",
+            "value": 67317
+          },
+          "duration": {
+            "text": "51 mins",
+            "value": 3073
+          },
+          "end_address": "Disneyland Dr, Anaheim, CA 92802, USA",
+          "end_location": {
+            "lat": 33.8160897,
+            "lng": -117.9225226
+          },
+          "start_address": "5543 Universal Studios Blvd, Universal City, CA 91608, USA",
+          "start_location": {
+            "lat": 34.1358593,
+            "lng": -118.3511633
+          },
+          "steps": [
+            {
+              "distance": {
+                "text": "0.3 mi",
+                "value": 445
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 123
+              },
+              "end_location": {
+                "lat": 34.1329641,
+                "lng": -118.3526721
+              },
+              "html_instructions": "Head <b>north</b> on <b>Universal Studios Blvd</b>",
+              "polyline": {
+                "points": "cdjoEvmjqUOAA?E?E?A?E@CBC@CBC@A@CBCBCB?@AB?@?@?@?@?@?@@@?@@@@@@@@?BB@?@?@?@?@?@AB?@??AB?@?ZGJCZ?TCPC@?T?B?P?PB@?PBLBLJFFHDB?FBB@FDB?FDB@FBB@FD@@FDB@TNRN@@FDB@BBBBPLf@Xf@\\DBD@TLB@FBFDHDD@BBD@DBF@DBH@FBRD"
+              },
+              "start_location": {
+                "lat": 34.1358593,
+                "lng": -118.3511633
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "9.6 mi",
+                "value": 15487
+              },
+              "duration": {
+                "text": "16 mins",
+                "value": 946
+              },
+              "end_location": {
+                "lat": 34.0525152,
+                "lng": -118.2258658
+              },
+              "html_instructions": "Turn <b>left</b> to merge onto <b>US-101 S</b>",
+              "maneuver": "ramp-left",
+              "polyline": {
+                "points": "_rioEdwjqUZSDe@Fa@@I@CHc@@CBMFU@ANa@?A@CJUFQJQDGTg@`@o@NUb@m@?AAc@JMRSRUTURSHKDETUJMFGRSRURSPSFGLMRSPSPQNOBEBCPQBCPQRSTUPSPQFGNOPSTURSRSRSRS?ARSPQTUPQ@?TYVWVWTUTWZ[JKDERSDELMPQVWTSNOXSVUFELIRM\\UVONId@WPKVQJEBCHCLKb@WRMBCLITQFENMLKx@q@NOTWLORWNORWx@cAh@q@Z_@`@i@Z]V]pBeCRUZ_@\\_@V[DGb@e@RSJKRS\\[JKl@k@ROLKb@]?ATQ^Wl@a@`@YVSf@[TMp@]TKTMh@U`@Qd@Qd@QLE^MVIFC@?^MXG^KPEl@MHAd@ITGz@M?Ab@GXE\\GB?LCv@MlAQ~@O|@Mv@Md@Mr@Ml@Md@KPG@?JCZI\\Kj@Ov@Wh@Wr@]@?l@W^QPKPI^STMDCNKHEPKROXSJI\\YNMVURSV[`@]b@k@T[T]HKj@}@Ta@P]N[NYHOVg@BIFIFOT_@Pa@hBoDDIJWHOXo@BGR_@Ra@b@y@Ra@BGXk@\\q@BE\\s@R_@BEVi@NY\\s@HODINY|@iBr@uAR_@Te@@AVg@FOLWLWN_@L_@Rq@HYJ]H]H_@Jm@BQDYF_@BYBQDa@B[@a@@M@O?Q@]@q@@s@?e@@e@?]?c@@_A@_@@]?K@WBYBa@D_@BS@KD]D_@F]H]H_@DOBMH[H[J[N_@HYLYN[LYNYR_@t@gAT[PSRURUf@e@NKXU@CVOXQh@]bAg@\\Oj@[PI^Ql@YVMRIZQVOXMVMTMRIBCVMTIVOh@W\\OLGHGl@YXOdAi@TMTMVOTOVQROVSROTS~@y@PQRSTUPSb@e@T[PSFKHMRWPWLSPYNWP[NWR]x@}Ad@}@Xg@`@s@JSn@mA`@u@P[f@_AR_@PYPYPWPWNSPUFGJMRURQPSRQLKHITQTQXQTOTMTOp@[j@[zAw@dAi@|Ay@dAi@b@UhAm@`@Un@a@VQRMTQTSNKVUTQTU^]V[TUPSPURURWX_@Xc@R[NWPUr@kA\\m@t@mA~@}Ah@}@Xc@\\k@n@eAXe@DGTa@hAiBT_@LUFIHOLSd@u@HMZg@LSPYPWNUPWRYLS^g@`AuAFIHOBCNUJSPWLWNUN[@ENYHQL[JS@Et@kB@EJYL]JYJ[J[JYJ[L]L[BGJ[FQL[LYRg@HOLYL[LWLYN[N[P[DMDG\\q@JWP[BGHSL[LWBGHUL_@HY@C@EPk@Ja@F[Ha@FWBMBOF_@D_@B[D_@D]B_@@YBc@@YBc@@a@?IBg@@K@_@@]Ba@@c@Bc@@W@Y@O?EB]B]Dc@B[B]@EBYDa@BO@MD]D]@IJq@RsAD_@Lw@Fa@RwAL_AD[PiAJw@Ly@Ju@DWJy@F]Fg@DUD[F]D]F]Jm@Je@@EJi@?CDQ?CDMTqABMH]DWZ_BF[Hg@VqAF[FY`@yBFW`@sBd@iCNw@BINs@No@VeAH[Rs@T{@^kAZ{@@ENa@@EL[h@uAd@gAZw@HU@ANc@L[d@wAbAeDL]J_@Vy@DOPk@L_@Pm@\\aAh@aBFOJYTq@zAoEBIv@}BL_@DOZy@n@qB\\iADSDO@CDO@Ed@kBVeADOFSDSPq@Ry@Rw@XiAb@gBLc@BMh@sBh@wBT}@Ry@Lg@XkAHUNq@J[R}@J]H]DOf@_BHSPi@Tm@BE\\w@BGBILUJWRc@NYn@iAXe@FK@?DGFGJO\\i@fAaB\\k@BG`@o@\\k@NSJSNUNS\\k@NUT[FMNSLUHMFIJQR_@NSPWVa@RU^e@DCRUNOJIPQ\\Yz@q@l@g@f@a@\\YfByA^YhCuBRQROPO^[dAaA`@c@DGXYj@q@NSX]PSFIV]PU@??AHMl@y@n@{@b@o@x@mAj@}@V_@LS\\k@NWj@eAf@aAl@gAt@uAXi@r@sAn@mAR]Zm@NYNYlA{BR_@@CJST_@\\s@j@eAVi@?ARe@f@qA?ANe@DQDMLq@?AJ{@@CBW@[?CB_@?S@cA@y@?u@@Y@q@@k@@cA@YD}AD}ABoAD_BBq@Bc@?CHqA@CBe@HcAHqA@AJwAFu@FaAFi@Di@Bg@@i@JwA@IJaA@IHm@NqALcABOD_@@IHu@Fm@@SBY"
+              },
+              "start_location": {
+                "lat": 34.1329641,
+                "lng": -118.3526721
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.3 mi",
+                "value": 3682
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 142
+              },
+              "end_location": {
+                "lat": 34.0264941,
+                "lng": -118.2087877
+              },
+              "html_instructions": "Keep <b>right</b> at the fork to stay on <b>US-101 S</b><div style=\"font-size:0.9em\">Parts of this road may be closed at certain times or days</div>",
+              "maneuver": "fork-right",
+              "polyline": {
+                "points": "g{ynEt~qpUFS@GBOHa@@I?CDQBMH[Ha@Pi@L[@CHULUFOFIFMBGFIR[NSVYVY\\[HI^Uj@[`Ac@jAg@j@U~@_@bAa@hBs@PIXKd@O^Mv@STGZKdAUTCZCXE`@Gv@I@?PCp@E^AXAnBCLApBCXAh@?bECnABjADjBNbDb@LBxBV@?`@FnAHR@Z?t@?x@Cj@Ev@Gh@Cn@?B?L?b@@r@@XB\\DN@ZB~@Jb@DN?D@Z@N?b@@|@C|AMJC|A[`@KBAZK@?HETIBAhBw@`@]ZSLKjA}@X[BAVUJMh@g@VYTWRSNSPSLOPS?ATYPWNSJO\\g@NUJQRYLQh@_Ab@w@HSLYN[LYLYJWFKd@mANe@Rk@rA{DdA{CPe@X{@HWFOX{@`@mAh@yALi@Na@Ts@Pi@Xu@d@wADKb@oANc@J]Na@J[L[Rm@L_@JYL]PU"
+              },
+              "start_location": {
+                "lat": 34.0525152,
+                "lng": -118.2258658
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "2.0 mi",
+                "value": 3241
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 131
+              },
+              "end_location": {
+                "lat": 34.0176176,
+                "lng": -118.1761111
+              },
+              "html_instructions": "Merge onto <b>I-5 S</b>",
+              "maneuver": "merge",
+              "polyline": {
+                "points": "qxtnE|snpULYPg@\\gAVu@@CHWJ]Ni@H]FSJi@Nm@Ha@VkALo@DUH]F[HYBKDOJ]FWL_@JYDQDKJ[?AJYL]JYJ]J[FSBGJ[J]FOLa@L_@@ARq@JW@EJ[DMDMJ[BIFQL]HYL[J]JYHU@GJ[JYL]Pk@BIHWJ]FMBI@AHYL]J[J[J[BGFSL_@DOBIJY@CJ[Rk@BIJ]BEJ[J[HW@CJ]J[JYJ]FQBIJ[L[J]JYJ[L_@HWJ[FQNa@J]J[DSBIJ]FY@CH]Ha@Ha@?CFYF[F_@F_@?CHk@@IDWD]D]Ba@B[@MDk@Dg@@U?M@QBk@@i@?S@_@?a@AwA?a@?e@?_@?]?_@?Y?E?aA?aAAkAB{A?q@?[?a@?G?qA?EAwC?g@?o@?c@?A?{AAy@?}@@uA?]?m@?_A?M?W@g@?A@cBBm@Ds@BQ@SH}@D_@DYD]F_@DSHg@F_@Jg@He@FWDQRs@FY\\aALa@Na@Vo@@?x@sBz@oBN_@LYFM^}@BGTi@BCTi@Ti@"
+              },
+              "start_location": {
+                "lat": 34.0264941,
+                "lng": -118.2087877
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "10.0 mi",
+                "value": 16116
+              },
+              "duration": {
+                "text": "10 mins",
+                "value": 595
+              },
+              "end_location": {
+                "lat": 33.881746,
+                "lng": -118.1917742
+              },
+              "html_instructions": "Take exit <b>130B</b> to merge onto <b>I-710 S</b> toward <b>Long Beach</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "casnEtghpUL@@A@?DKN[Vk@Ra@N[\\s@Tg@Ta@JQ@AJQP]@CZi@R_@HMJS\\c@DIJKFIJKPOJKJKBALKBARMNK\\QTKVKb@OZGVG\\E`@E\\A@AFEd@CJAj@AZAhECf@Ab@?~@@H?H?L?`@?PAT?Z?N?X?v@?b@?rDA|C?`@@r@?P?l@Bb@@R@L?`@BfAD^Dd@DnAJD@n@FJBt@JVDL@v@NZFTD|@Pf@Ln@NVHRJJB`@LXHl@RB?@@ZHNDp@RXHLDh@TfAb@dAd@TJJFh@Vh@Xb@T^TVNTLh@d@XF@@h@ZdAn@l@\\ZPf@ZTNf@XHFTLh@V^NRHl@RVHZHVFXF\\FVDVDr@Fj@DF?X@r@@r@AXAXAXCZCp@IZEl@KZIVGZIl@U`@Mf@WTKTMBATMTOl@a@h@c@JK\\Yd@g@f@i@PWTW`@m@T[LQ`@m@NQd@q@^g@h@s@d@i@NSTWZ_@FGh@i@d@g@r@q@^]f@c@h@c@l@g@j@c@RO|@o@XU@?PMTOVOXS`@WDCh@[l@]VMfAk@VORKZOr@[~@a@n@W\\MRGh@SlA_@VGVI\\INE^IVGXIXGZITGlAYVGNE`@IXGDATEVELCLCXGXEVC@A@?VCVEZCXCXEXCXCNAHAXAXCZCVAZAZCVAZAT?ZAd@Aj@AX?XAZ?Z?V?V?Z@X?t@@X@X@nADV@ZBX@V@XB\\B@?TBX@XBTBB?VBZBR@D@\\BTBZBX@TBB?XBXBVB@?ZBV@XBXBJ?~@Dv@@X?D?T?XAX?VA\\AVCXCZAXCPADAVCD?VAXCZCXC@?TAXCXAXA\\AVAX?ZAV?Z?V@B?X?X@V@X@B?V@Z@VBV@t@HD?PBZD\\DVBXFXDVDB?TFZFVFXFD@RFVFXHXHXHXJTHVHVJXJXJZNPFVJXJVJVHVJVHVJZJXHVHTFXHr@NZFVDD@PBXDXD\\BXBD@R@XBXBZBXBXBXBXBp@FZBVBXBt@FXBVBr@FZBr@DF@R@VBZBn@Dx@FjBJJ@`@BZ@t@DnADH@h@BV@v@@V@\\@f@BD?nABpBBfA?pA?t@?p@?`@AF?F?l@?LAT?XA^?r@CT?RA`@AXA@?nACtBI`@AZAZAnAEr@Cr@Ah@CrACR?tB@H?j@@r@Dh@B|AJp@FL?TB`AFnBLl@FfBLhCPB?hAHp@Dh@D~CTJ?VBp@Dr@F\\Bp@Dt@DZBNBXB\\Bx@L|@Pb@JJBl@Pd@NHDZJb@RJB?@VLJDVLXPLHZPTNXRTPLJVTLJZVPPTTVVNRPRPTHJDDV\\RZLRNTJPNTNVVd@FFf@x@JPNVNVJPZd@NXJLT^JNPVDFLNDFHJ^d@l@n@JJVVRPTRVTNJZV^VNJZRb@TLF?@JDVLTJVLZLl@RPFZJZHLD`@Hd@Jf@H^Fn@Fp@F`@Bh@B\\?V?V?X?h@?JA`@ANATC`@EVCp@IHA~@Sr@Mh@Ov@Q`@KRGZIXGBAVGVGj@K^IZGZGJALAPCZEXCh@E@?JA^AZ?NAf@?R?^@fAFVB\\Dj@DdAJd@DVBXDXBr@J\\Dl@HjCZhC\\d@F\\DPBD?^DH@|@LXDF?j@HfBTdALb@FbBRp@HhBTjANB?p@JTBx@Jr@H^FTBbALf@FhANxBVdCZ~BZx@HVDl@Hv@H|BXt@Jv@LTDZFXFXFXHXFTFXHXJn@TVHVJZLXLb@Rb@R|A|@PJh@^VPd@\\PLJJh@b@RPBBd@b@TTRPPNh@f@j@h@TTRPRRRRTRf@d@d@d@VTd@l@~@v@VPXRTNzA~@TJVLRJTJTJTJZLPFZJZJRFf@Nb@LZHt@PVFXFXFXFVFXDXFXDXDVDVD\\DXDd@F~@HtAL`DVvBPl@@^DZBr@FR@TB@?@@l@D^B`@D`BLPBb@Bp@FpBNPB~@F@?NB|AJH@H?nBNz@FhAJ`AJD@P@rAPRBb@FZDD@PB@?NBPBj@Jn@Lp@Lz@NdATj@NJBF@@@PD\\HJBVHXHn@Pf@PhA^dA^FB\\JVJZLZLTHTLXLVJTHr@Xr@XVH`@Nd@NXHZJn@NXHn@NXFJ@NBXFZDn@JRDb@FTDlAPD@l@Hn@J"
+              },
+              "start_location": {
+                "lat": 34.0176176,
+                "lng": -118.1761111
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.6 mi",
+                "value": 948
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 41
+              },
+              "end_location": {
+                "lat": 33.8761967,
+                "lng": -118.1899093
+              },
+              "html_instructions": "Take exit <b>8B</b> for <b>CA-91</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "}oxmEpikpUZXDDDBv@N`@J@?VFf@JD@TFVF\\H`@HTFXFH@HB\\HVFZFXFVFTFH@LBZHXFXFXFPD\\H\\HTFPBB@RDF@FBJBVDB@PBF?F@J?H?H?@?F?NAF?PCHALEFANGDANIFCBCHERO@ABCLMDE@AJODGDGJQDIBIHSDMBIBKDUBM@KBS?G?E@]?W?KAU?CCU?GESAGEQAIEMAEAGIWIYCMCICGGSAGIWMa@"
+              },
+              "start_location": {
+                "lat": 33.881746,
+                "lng": -118.1917742
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "12.1 mi",
+                "value": 19442
+              },
+              "duration": {
+                "text": "12 mins",
+                "value": 701
+              },
+              "end_location": {
+                "lat": 33.8560413,
+                "lng": -117.9870924
+              },
+              "html_instructions": "Keep <b>left</b> and merge onto <b>CA-91 E</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "gmwmE|}jpUESMc@EUI[E_@CKAOCMGu@C]CSAOAKCi@AOAKCw@AmA?KAy@Ae@EYIc@?u@AsB?aD?{A?cA?gB?Y?k@?]@]CsA?oCAmA?O?}A?}@?iA?G?k@AqD?sB?s@A}C?oAAkG?a@?s@?kAAuB@a@@_AB{@B}@Dm@?GH}ADw@Jw@Hg@Hq@PsAJw@Hc@Fg@PwAJ}@Fq@HeA@Y@S@O?A@O@w@HqE?aBAaE?_A?g@?U?eA?k@?w@AU?yA?iC?w@?e@A_FAs@AeAAWKqBASIgAI{@CSEQCKMiAk@wDKq@Im@S}AIu@I{@?CEg@Cc@Cg@EaACs@?QA[AsA?W?_AAs@?oCA}EAW?wDA}BAuA?iA?U?wBA{A?s@AiBAiC?uA?]C}G?{A?cA?e@?q@A_A?cA?_@?a@?EAy@?I?sAAa@?OAsCAg@?o@?kA?eB@YAiC?{@AyC?i@?QA_B?KAcB?YAiA@]?gBB{@@IBo@Dy@JuADUL{@F_@He@Jm@Je@DQ`@wBVsADYJ}@Fm@JcA?A@WB[Bg@?U@]BoA?Y?Q?]Au@AiE?Y?W?c@?E?I?A?i@?k@?kC?y@AqA?{A?qB?c@?o@?e@?[?yA?q@?s@?aE?y@?c@?S?cA?}@AeF?E?u@?o@A_@?MAcAEwAAQ?CCm@Cg@Ca@AMGeAAOGw@CQAQCMAOK}AIcACQEq@Ea@[eEAME{@Ca@ASAKCo@EoACs@?y@A{A?mA?W@q@B_ABcABk@Ds@LeCPkCFeAHcAJmAF{@Bc@Bq@FoABa@@c@@_@?aA@_@?y@?gAAwC?_@?_@?u@?s@?iAAiA?_B?mA?{C?{@?}@AwD?mD?uEAgC?cD?_EAgC?oE?}B?e@AaA?wA?a@?_FAeC?{ADeEAsD?U?k@?cC?O?sB?cC?a@?I?e@A_C?{B?y@?eAAyE?_B?gCAgD?}B?I?_@?qA?i@?w@AsE?i@?i@?wA?sE?eBAM?uA?q@?m@?o@?uC?e@A_B?eD?oC?}@@[?c@@]@_@@[@_@F}@@[B_@B]B]Da@D[J_AD[DYBWHe@F]F]Jo@H_@Lo@\\wATu@Po@h@_BDKJWZw@L[Xq@Zo@@CLWZi@^o@bBuCdAeB|@{ANUPYn@iA~B_EdBuCZg@Ta@l@eA^o@n@eA\\k@t@qAp@gAt@oA`@q@@AX[\\m@tA}B@C^q@P[JQLUFKLSTa@LSR_@h@{@Va@NYPYNY`@q@\\k@R]JQLSf@{@|@{AT_@PYf@{@f@{@t@oAz@wARc@Vg@@CVe@Vg@\\k@Tg@LWP_@Rc@b@aAJUd@iAJWN]HU^aA@AZ{@FQRi@BITq@Ne@DM?CTs@FSL_@\\kA@EX{@FSJ[FUNe@FOZgAf@{AJ]^kA^mANg@Nc@Lc@J[H[DMBENg@Ne@|@yC`@oAZeARo@Ro@?ARo@Pm@jDcLPi@H[Vw@DMLc@Ne@Tu@J]J]Pi@ZeAv@eCPk@BK`@qARm@J]^mAJ]J_@FSJ_@DODMH[Lg@Li@ZuA?AF[@A?CDYP}@Hg@DQBMBSPiANqAD[Fm@BMB]JkABYJiBBg@Bg@@_@By@Bm@?o@@i@@}@?]?c@?{D?gAAoB?cA?w@?WAcA?Y?}@?[?_B?A?U?U?U?Q?AA_A?_@?iA?CAsC?G?w@?uA?C?sAAi@?iA?AAs@?Y?S?K?[AoBAwB?C?[?e@?EAs@?_@?i@?g@?k@?_@?O?[?I?K?E?W?IAM@??QAY?sA?wAAe@?O?G?G?oA?gA?mA?aAAsA?{@?]?A?i@?K?]?i@?_BAaB?_@AsB?oB?kA?_@AmB?gB?_@?}@?}@AeB?gBAqA?C@U?M?SAqA?C?kC?U?a@?OAk@?W?w@?o@?m@?gBAy@?}@?}AAiA?s@?_C?M?_@?Q?O?]Ae@?[?U?}@?GAY?_@?a@?[?c@?]?]?S?k@?_@?}@A_@?]?U?_D?yBAeG?U?{@Aa@?mD"
+              },
+              "start_location": {
+                "lat": 33.8761967,
+                "lng": -118.1899093
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "4.2 mi",
+                "value": 6732
+              },
+              "duration": {
+                "text": "4 mins",
+                "value": 233
+              },
+              "end_location": {
+                "lat": 33.8261327,
+                "lng": -117.9260045
+              },
+              "html_instructions": "Take exit <b>24</b> to merge onto <b>I-5 S</b> toward <b>Santa Ana</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "gosmEhjcoUN]?A@k@A{AAkA?e@ASA_A?M?SAQ?M?OAM?a@A_@?AA]?e@A_@?c@A]?C?[AaA?S?OAQ?Y?QAk@?q@AoBAYCaB?E?kA?q@DuAFqAB[Da@DYF]Ja@FYJ_@J[LYJ[JYL_@JWL]Xw@JUFQLYLYLYBELUt@sAFKR_@@A?ADo@JOV]r@cAf@s@^i@j@{@FITa@^o@r@qAVg@Vi@Rc@DGXq@DI`AwBLULYLYN]NYLYLYLYHQLYP_@JUN[N[LYLYJWN]LYLWN[N]JWLYN]LYL[LYLYL[DMFML[LWL]LYJ[N[L]JYLYL_@L[LYJ]`AgCTk@Tk@LYJ[BEHWLYL[JWJYL]N]L[JWNa@HQLY@ELYJYFMBGbAqCPa@JYL[LYHONa@N[L]LYJ[LYL]LYL[FQN_@Na@JYHSVg@d@cANYN]LYNWLYP[NWNY^q@NYNUPYNWNYPYNWPWNYNWLSBCNYNWPYN[NYDEJSLYNYLYNYLYN[FQRc@LWL[LY@AJWN]LWN[JYDIHQLYLYN[LYJWDKFON[LYN[L[LWLYNYPa@JWN[DKDIN_@LYJWN[FMDMP]LYJWLWN]JUHSBEN[JWN]LYJUHQDKL[N[LYLWL[JUDGTk@LWN[L[LYJULYN]HSN[LYN[L[FMFKJWJWN[LYPc@HQNYLYLYL[LWL[LYVm@P]h@oALWN[HUP_@P_@JWFKFQJSNa@r@gBRq@J]J[H[H]FSBKF[BYReAp@iERqA^eC`@uCTyA@GHo@Hc@F]He@Ha@Li@DMBMFU@CDOFUFQFUX_A@EPc@HSBIPa@HSRa@HSVe@Tc@\\m@Zg@\\k@^e@`@i@PSJM`@e@vC_DNOJMh@k@NOZ]jAoA|@aAx@}@TUHKTWRSX[TUb@e@X]^_@f@i@VY\\_@XYJKFGJKFGTUPQFEd@c@`@_@LKZY\\WTQPM\\Y"
+              },
+              "start_location": {
+                "lat": 33.8560413,
+                "lng": -117.9870924
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "0.7 mi",
+                "value": 1092
+              },
+              "duration": {
+                "text": "2 mins",
+                "value": 143
+              },
+              "end_location": {
+                "lat": 33.8172447,
+                "lng": -117.9222609
+              },
+              "html_instructions": "Take exit <b>110B</b> to merge onto <b>Disneyland Dr</b> toward <b>Ball Rd</b>",
+              "maneuver": "ramp-right",
+              "polyline": {
+                "points": "itmmEnlwnUNBHBB?@?@?@?HGhAo@\\Qf@]JIx@o@PM\\Y\\YFEVSrBaBbBuAZY\\W\\Yx@q@PKFCHCJCHCH?@?D?\\?h@\\b@Zn@KR@J?NALETEFC@?@APELC^ITIt@QNEVEfAYDAn@OZIFAHEv@QPCFAVGHA@?@?BAB?VE^E`@GLCTAVCH?HAB?VAT?P?"
+              },
+              "start_location": {
+                "lat": 33.8261327,
+                "lng": -117.9260045
+              },
+              "travel_mode": "DRIVING"
+            },
+            {
+              "distance": {
+                "text": "433 ft",
+                "value": 132
+              },
+              "duration": {
+                "text": "1 min",
+                "value": 18
+              },
+              "end_location": {
+                "lat": 33.8160897,
+                "lng": -117.9225226
+              },
+              "html_instructions": "Keep <b>left</b>",
+              "maneuver": "keep-left",
+              "polyline": {
+                "points": "w|kmEbuvnUFCFAL@B?B?b@B^Ff@H`@Lp@R"
+              },
+              "start_location": {
+                "lat": 33.8172447,
+                "lng": -117.9222609
+              },
+              "travel_mode": "DRIVING"
+            }
+          ],
+          "traffic_speed_entry": [],
+          "via_waypoint": []
+        }
+      ],
+      "overview_polyline": {
+        "points": "cdjoEvmjqUm@DWXFT`BKhBCnAf@pBlA~D~B^Jn@MLgANu@\\gA~A_Dr@eAAc@^a@fAkAn@q@hCoCrFyFdHkH|B{B`DwBvHgF`OoQ~CeDvEsD~FeD|DwA`MaCpLsBfFaB|E_ChCiBdEwE~CwFbIePrJoRnB{E~@oE^iEFcHT}Fr@iEzAqEvDwFrFsDpFkCjL{FpDaC|E_FvIaOtEkI`CsC|C{B|McHbGwDtDwDdO{UzQ_ZtEeM`F{KvAiDdAgEh@wER{En@iLzC{TbC{OvEkVnCeM|CcJtEuMfCcI|JsZfIa\\`CmJjCwHnCmFfDcFfGuJzCcEzF{EpLyJpDgEvDiFlGkKtMqVtCcHf@yDn@_[bBoVpBiP~@qD|@iBrAcBrBwArMmFfHcBrFe@hGKhKD~ObBlIUhG^fEFhFy@j@SbCcAvC{BlDoDxBsCtDcGxJcXzIsWjCeH|AuFdD_NfDeKnHyTjI}VhBoJf@sFJaF?aUAiY\\sI|@{FnBcHtD{I|@sBx@qArBgEtB{DlBqCbBqAnBy@rB[lAM|GI`FAfWJtIv@tFdAnMdEvGfDtGxDnEbCdEhAxGZ`Gq@zEiBbCcBvBwB~CkE~EkGnIuHfEwCjGkDhJoDrLsClIgAdLa@tN^vHj@tDXrEDzHc@nJOdK~@`JfC`E|A`FvAnJbAtMdAlS~@lND|EGtIWzMSx[pBbLv@tH`AtDpAtC~AfDrCfC`DvGrKnChDpDzCvC~AzE|AxHt@fEIjIyAjEcAxDk@~DKlIn@nNfBhW~Cd\\`EhKzA|EzAnH~D`EjD`NdMtFxC`F|AhN|Btn@~EjObCtM~D~EpBrGrB~E|@lC`@~Bt@|D|@xDz@rJtBjD\\~Aa@bAw@x@{A\\oBC_Cc@kBkBcI[iEYoHEsd@?gk@x@{K~AeNHgCFeVEcTo@mK{B}PY{GOcm@Iwb@Kua@NyKnAsI`BoLLqGEg]Ai_@q@gQeBkXJ}MjAyQXmJAmOGq`AEetACwf@@wQZqGx@oGzC{L`CuFtJkPbWmb@pHmM`NwUnDoHpCgHtE_ObIoWrUkv@lCeN`AwKToJCo[EoUKu`@Icy@Kgk@Co]AaHNgDGgGM_LI{JLeHVuB~AgFbBiErByDP_AjAaBzBcDlEsI~C}GdFcL`Ne]nMg\\bHgNhFaJbLaWrKkVnL_XrCoGjCgHpB_LhCaQnC}J`DkGfIsJ|N{O~IuIf@_@l@UPBrFoDnI_HnD_Cn@?lAx@bAI~@M\\KnFqAfEaApFe@zBFzBj@"
+      },
+      "summary": "US-101 S and CA-91 E",
+      "warnings": [],
+      "waypoint_order": []
+    }
+  ],
+  "status": "OK"
+}
